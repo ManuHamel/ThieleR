@@ -1,0 +1,10 @@
+Package: ThieleR
+Type: Package
+Title: ThieleR
+Version: 0.1.0
+Author: Emmanuel Hamel
+Maintainer: <manu.hamel@gmail.com>
+Description: Thiele interpolation formula
+LazyData: TRUE
+RoxygenNote: 7.0.2
+
